@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Private Email Script Information
+EMAIL_ADDRESS.json
